@@ -2,7 +2,7 @@
 
 ## Preview
 
-<video src="demo/brandgraphrag.mp4" controls width="100%"></video>
+[![Preview](demo/brandgraphrag.gif)](demo/brandgraphrag.mp4)
 
 ## Overview
 
