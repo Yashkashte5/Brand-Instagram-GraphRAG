@@ -1,13 +1,10 @@
 from __future__ import annotations
-
 import json
 import pickle
 from collections import defaultdict
 from typing import Any
-
 import networkx as nx
 import numpy as np
-
 from ingest import (
     processed_path, graph_path,
     build_embeddings, search_embeddings, embeddings_are_fresh,

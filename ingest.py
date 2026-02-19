@@ -7,7 +7,6 @@ import sys
 from datetime import datetime, timedelta, timezone
 from pathlib import Path
 from typing import Literal, Optional
-
 import numpy as np
 import lancedb
 import pyarrow as pa
