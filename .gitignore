@@ -1,0 +1,8 @@
+.env
+old/
+graph_view.html
+__pycache__/
+*.pyc
+*.pkl
+*.gpickle
+data/

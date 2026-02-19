@@ -1,0 +1,12 @@
+numpy
+sentence-transformers
+networkx
+lancedb
+pyarrow
+instructor
+pydantic
+groq
+apify-client
+streamlit
+python-dotenv
+graspologic
